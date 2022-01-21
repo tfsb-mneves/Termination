@@ -123,7 +123,9 @@
     <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="431,91" sap2010:WorkflowViewState.IdRef="LogMessage_1" Level="Info">
       <ui:LogMessage.Message>
         <InArgument x:TypeArguments="x:Object">
-          <CSharpValue x:TypeArguments="x:Object" sap2010:WorkflowViewState.IdRef="CSharpValue`1_16">out_str_CellPhone + "\n" + out_str_Email + "\n" + out_str_ManagerName</CSharpValue>
+          <CSharpValue x:TypeArguments="x:Object" sap2010:WorkflowViewState.IdRef="CSharpValue`1_17" xml:space="preserve">"Cell Phone: " + out_str_CellPhone +
+"\nEmail: " + out_str_Email +
+"\nManager Name: " + out_str_ManagerName</CSharpValue>
         </InArgument>
       </ui:LogMessage.Message>
     </ui:LogMessage>
