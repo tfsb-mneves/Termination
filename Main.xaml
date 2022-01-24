@@ -150,7 +150,7 @@
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
-    <umab:OutlookApplicationCard Account="mneves@thefederalsavingsbank.com" DisplayName="Use Desktop Outlook App" sap:VirtualizedContainerService.HintSize="636,3481" sap2010:WorkflowViewState.IdRef="OutlookApplicationCard_2">
+    <umab:OutlookApplicationCard Account="TFSB IT Asset Recovery Team (mneves@thefederalsavingsbank.com)" DisplayName="Use Desktop Outlook App" sap:VirtualizedContainerService.HintSize="636,3481" sap2010:WorkflowViewState.IdRef="OutlookApplicationCard_2">
       <umab:OutlookApplicationCard.Body>
         <ActivityAction x:TypeArguments="um:IMailQuickHandle">
           <ActivityAction.Argument>
